@@ -1,0 +1,6 @@
+This file is using POSIX API Message Queue to pass data between two processes. The data file(UnsortedData.txt) has to be in the same directory with the source code.
+Compile Command:
+make
+./dataAnalyze
+
+

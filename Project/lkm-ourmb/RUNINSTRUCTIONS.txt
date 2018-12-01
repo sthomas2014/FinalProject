@@ -1,0 +1,10 @@
+To run:
+
+'make' from /lkm-ourmb
+'cd lkm'
+'sudo insmod ourmb.ko'
+'cd ..'
+'cd test'
+'./test'
+
+Other files in test are for testing of possible future exapansion.
